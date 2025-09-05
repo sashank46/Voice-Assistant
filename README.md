@@ -3,8 +3,7 @@
 👋
 Hello ! we’re going to build a super cool Python project called BABU – Your Personal Voice Assistant
 
-it can:
-
+## Features:
 - 🎤 Voice recognition using Google Speech API
 - 🗣️ Text-to-speech responses using pyttsx3
 - 🌐 Opens websites or searches (e.g. "Open Nike")
@@ -15,7 +14,7 @@ it can:
 - 🚀 Opens apps like Chrome and VS Code
 - ❌ Exits on command ("exit", "stop", "bye")
 
-Sounds cool? Let’s get started 👇
+## Steps you need to follow
 
 🛠️ Tools Required:
 -Python 3.8 or above
@@ -59,14 +58,14 @@ python Babu.py
 
 Then start talking!
 
-🗣️ Try:
+## Try these cool outputs
 
 "Play Calm Down"
 "Open Nike"
 "What's the time"
 "Who is Elon Musk"
-"Exit"
+"Exit" 
 
-And BABU will respond like a pro! 🤖
+## And BABU will respond like a pro! 🤖
 
 
