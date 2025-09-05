@@ -22,13 +22,13 @@ Hello ! we’re going to build a super cool Python project called BABU – Your 
 -A microphone
 -Internet connection for YouTube/Wikipedia
 
-### Step 1: Create Project Folder
+ **Step 1**: Create Project Folder
 Open VS Code → Create a new folder:
 
 mkdir voice-desktop-assistant
 cd voice-desktop-assistant
 
-### 🧪 Step 2: Set Up a Virtual Environment
+**🧪 Step 2**: Set Up a Virtual Environment
 Run this to create a virtual environment:
 
 python -m venv venv
@@ -43,12 +43,12 @@ source venv/bin/activate
 
 You’ll see (venv) in your terminal – that means you’re good to go!
 
-### Step 3: Install Required Libraries
+**Step 3**: Install Required Libraries
 Run this to install all dependencies:
 
 pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
 
-### Step 4: Create the BABU Script
+**Step 4**: Create the BABU Script
 Create a file Babu.py and paste this full code.
 
 How to Run the Project
@@ -66,6 +66,6 @@ Then start talking!
 "Who is Elon Musk"
 "Exit" 
 
-## And BABU will respond like a pro! 🤖
+**And BABU will respond like a pro! 🤖**
 
 
