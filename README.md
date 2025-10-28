@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ```
 ### **Step 4: Create the Main Script**
 
-##Create a file named Babu.py inside your folder and paste the assistant code from this repository.
+Create a file named Babu.py inside your folder and paste the assistant code from this repository.
 Make sure your microphone and internet are active before running it!
 
 ### **Step 5: Run the Assistant**
